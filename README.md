@@ -1,2 +1,2 @@
 # Site-monitoring-C-
-Program for monitoring websites in c++
+Program for monitoring websites (C++)
