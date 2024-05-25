@@ -1,0 +1,5 @@
+C:\Users\Никита\source\repos\WatchufEyeProject\x64\Debug\WatchufEyeProject.vcxproj.AssemblyReference.cache
+C:\Users\Никита\source\repos\WatchufEyeProject\x64\Debug\WatchufEyeProject.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\source\repos\WatchufEyeProject\x64\Debug\WatchufEyeProject.exe
+C:\Users\Никита\source\repos\WatchufEyeProject\x64\Debug\WatchufEyeProject.MyForm.resources
+C:\Users\Никита\source\repos\WatchufEyeProject\x64\Debug\WatchufEyeProject.vcxproj.GenerateResource.cache

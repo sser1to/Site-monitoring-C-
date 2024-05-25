@@ -1,0 +1,3 @@
+C:\Users\27070\source\repos\WatchufEyeProject\WatchufE.CB95C911\x64\Debug\WatchufEyeProject.vcxproj.AssemblyReference.cache
+C:\Users\27070\source\repos\WatchufEyeProject\WatchufE.CB95C911\x64\Debug\WatchufEyeProject.MyForm.resources
+C:\Users\27070\source\repos\WatchufEyeProject\WatchufE.CB95C911\x64\Debug\WatchufEyeProject.vcxproj.GenerateResource.cache
