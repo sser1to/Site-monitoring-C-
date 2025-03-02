@@ -1,4 +1,4 @@
-# Website Monitoring Software (C++) (VS 2022)
+# Website Monitoring Software (C++ Windows Forms)
 
 This program is designed for monitoring websites. The user can add new sites and delete them. Additionally, there is a search function by site name.
 
